@@ -1,65 +1,20 @@
-2024-12-11 23:10:41,729 - INFO - Starting Multi-Agent Pathfinding Simulation
-2024-12-11 23:10:41,731 - INFO - Car 0 (Role: leader, Priority: 1) initialized: Start (62, 3), Target (52, 53)
-2024-12-11 23:10:41,735 - INFO - Car 1 (Role: leader, Priority: 1) initialized: Start (20, 85), Target (46, 48)
-2024-12-11 23:10:41,736 - INFO - Car 2 (Role: leader, Priority: 1) initialized: Start (83, 24), Target (54, 55)
-2024-12-11 23:10:41,741 - INFO - Car 3 (Role: follower, Priority: 2) initialized: Start (23, 96), Target (50, 56)
-2024-12-11 23:10:41,742 - INFO - Car 4 (Role: follower, Priority: 2) initialized: Start (17, 53), Target (50, 56)
-2024-12-11 23:10:41,743 - INFO - Car 5 (Role: follower, Priority: 2) initialized: Start (96, 75), Target (50, 56)
-2024-12-11 23:10:41,745 - INFO - Car 6 (Role: follower, Priority: 2) initialized: Start (40, 93), Target (50, 56)
-2024-12-11 23:10:41,746 - INFO - Car 7 (Role: follower, Priority: 2) initialized: Start (89, 79), Target (50, 56)
-2024-12-11 23:10:41,754 - INFO - Car 8 (Role: follower, Priority: 2) initialized: Start (6, 4), Target (50, 56)
-2024-12-11 23:10:41,758 - INFO - Car 9 (Role: follower, Priority: 2) initialized: Start (25, 8), Target (50, 56)
-2024-12-11 23:10:41,759 - INFO - Car 10 (Role: follower, Priority: 2) initialized: Start (4, 64), Target (50, 56)
-2024-12-11 23:10:41,760 - INFO - Car 11 (Role: follower, Priority: 2) initialized: Start (53, 94), Target (50, 56)
-2024-12-11 23:10:41,768 - INFO - Car 12 (Role: follower, Priority: 2) initialized: Start (21, 98), Target (50, 56)
-2024-12-11 23:10:41,772 - INFO - Car 13 (Role: follower, Priority: 2) initialized: Start (0, 27), Target (50, 56)
-2024-12-11 23:10:41,774 - INFO - Car 14 (Role: follower, Priority: 2) initialized: Start (29, 81), Target (50, 56)
-2024-12-11 23:10:41,775 - INFO - Car 15 (Role: follower, Priority: 2) initialized: Start (97, 96), Target (50, 56)
-2024-12-11 23:10:41,776 - INFO - Car 16 (Role: follower, Priority: 2) initialized: Start (5, 57), Target (50, 56)
-2024-12-11 23:10:41,777 - INFO - Car 17 (Role: follower, Priority: 2) initialized: Start (79, 83), Target (50, 56)
-2024-12-11 23:10:41,778 - INFO - Car 18 (Role: follower, Priority: 2) initialized: Start (82, 41), Target (50, 56)
-2024-12-11 23:10:41,778 - INFO - Car 19 (Role: normal, Priority: 3) initialized: Start (99, 14), Target (47, 55)
-2024-12-11 23:10:41,779 - INFO - Car 20 (Role: normal, Priority: 3) initialized: Start (95, 26), Target (54, 56)
-2024-12-11 23:10:41,785 - INFO - Car 21 (Role: normal, Priority: 3) initialized: Start (8, 10), Target (57, 56)
-2024-12-11 23:10:41,791 - INFO - Car 22 (Role: normal, Priority: 3) initialized: Start (15, 96), Target (54, 46)
-2024-12-11 23:10:41,791 - INFO - Car 23 (Role: normal, Priority: 3) initialized: Start (91, 24), Target (44, 55)
-2024-12-11 23:10:41,792 - INFO - Car 24 (Role: normal, Priority: 3) initialized: Start (41, 99), Target (51, 57)
-2024-12-11 23:10:41,793 - INFO - Car 25 (Role: normal, Priority: 3) initialized: Start (76, 92), Target (43, 45)
-2024-12-11 23:10:41,796 - INFO - Car 26 (Role: normal, Priority: 3) initialized: Start (6, 18), Target (44, 46)
-2024-12-11 23:10:41,801 - INFO - Car 27 (Role: normal, Priority: 3) initialized: Start (1, 18), Target (54, 52)
-2024-12-11 23:10:41,801 - INFO - Car 28 (Role: normal, Priority: 3) initialized: Start (87, 82), Target (54, 57)
-2024-12-11 23:10:41,804 - INFO - Car 29 (Role: normal, Priority: 3) initialized: Start (7, 21), Target (55, 49)
-2024-12-11 23:10:41,805 - INFO - Car 30 (Role: normal, Priority: 3) initialized: Start (79, 20), Target (57, 52)
-2024-12-11 23:10:41,806 - INFO - Car 31 (Role: normal, Priority: 3) initialized: Start (92, 4), Target (43, 53)
-2024-12-11 23:10:41,809 - INFO - Car 32 (Role: normal, Priority: 3) initialized: Start (23, 81), Target (56, 49)
-2024-12-11 23:10:41,810 - INFO - Car 33 (Role: normal, Priority: 3) initialized: Start (76, 0), Target (49, 56)
-2024-12-11 23:10:41,811 - INFO - Car 34 (Role: normal, Priority: 3) initialized: Start (61, 79), Target (53, 51)
-2024-12-11 23:10:41,812 - INFO - Car 35 (Role: normal, Priority: 3) initialized: Start (18, 27), Target (56, 44)
-2024-12-11 23:10:41,815 - INFO - Car 36 (Role: normal, Priority: 3) initialized: Start (6, 75), Target (44, 49)
-2024-12-11 23:10:41,816 - INFO - Car 37 (Role: normal, Priority: 3) initialized: Start (94, 98), Target (52, 45)
-2024-12-11 23:10:41,821 - INFO - Car 38 (Role: normal, Priority: 3) initialized: Start (13, 1), Target (49, 52)
-2024-12-11 23:10:41,821 - INFO - Car 39 (Role: normal, Priority: 3) initialized: Start (22, 51), Target (45, 48)
-2024-12-11 23:10:41,822 - INFO - Car 40 (Role: normal, Priority: 3) initialized: Start (39, 78), Target (49, 57)
-2024-12-11 23:10:41,825 - INFO - Car 41 (Role: normal, Priority: 3) initialized: Start (9, 28), Target (45, 56)
-2024-12-11 23:10:41,826 - INFO - Car 42 (Role: normal, Priority: 3) initialized: Start (6, 57), Target (47, 48)
-2024-12-11 23:10:41,826 - INFO - Car 43 (Role: normal, Priority: 3) initialized: Start (50, 80), Target (54, 44)
-2024-12-11 23:10:41,827 - INFO - Car 44 (Role: normal, Priority: 3) initialized: Start (97, 14), Target (52, 47)
-2024-12-11 23:10:41,828 - INFO - Car 45 (Role: normal, Priority: 3) initialized: Start (70, 88), Target (43, 54)
-2024-12-11 23:10:41,829 - INFO - Car 46 (Role: normal, Priority: 3) initialized: Start (20, 75), Target (48, 50)
-2024-12-11 23:10:41,831 - INFO - Car 47 (Role: normal, Priority: 3) initialized: Start (45, 23), Target (55, 46)
-2024-12-11 23:10:41,832 - INFO - Car 48 (Role: normal, Priority: 3) initialized: Start (72, 6), Target (56, 55)
-2024-12-11 23:10:41,833 - INFO - Car 49 (Role: normal, Priority: 3) initialized: Start (89, 84), Target (56, 43)
-2024-12-11 23:10:52,611 - INFO - Progress update: 0/50 cars finished, collisions so far: 2
-2024-12-11 23:11:03,350 - INFO - Progress update: 0/50 cars finished, collisions so far: 3
-2024-12-11 23:11:14,084 - INFO - Progress update: 2/50 cars finished, collisions so far: 6
-2024-12-11 23:11:24,367 - INFO - Progress update: 6/50 cars finished, collisions so far: 12
-2024-12-11 23:11:34,418 - INFO - Progress update: 19/50 cars finished, collisions so far: 19
-2024-12-11 23:11:44,419 - INFO - Progress update: 41/50 cars finished, collisions so far: 29
-2024-12-11 23:11:49,975 - INFO - All cars reached their targets
-2024-12-11 23:11:50,082 - INFO - Simulation ended
-2024-12-11 23:11:50,082 - INFO - Total collisions: 29
-2024-12-11 23:11:50,082 - INFO - Cars finished: 50/50
-2024-12-11 23:11:50,082 - INFO - Average finish time: 53.90 s
-2024-12-11 23:11:50,082 - INFO - Path algo switch count: 3266
-2024-12-11 23:11:50,082 - INFO - Yield requests: 7, Yields honored: 6
-2024-12-11 23:11:50,082 - INFO - Synergy bonus total: 0
+2024-12-11 23:20:57,004 - INFO - Starting Multi-Agent Pathfinding Simulation
+2024-12-11 23:20:57,011 - INFO - Car 0 (Role: leader, Priority: 1) initialized: Start (16, 96), Target (43, 51)
+2024-12-11 23:20:57,013 - INFO - Car 1 (Role: leader, Priority: 1) initialized: Start (48, 16), Target (52, 56)
+2024-12-11 23:20:57,014 - INFO - Car 2 (Role: leader, Priority: 1) initialized: Start (76, 22), Target (45, 56)
+2024-12-11 23:20:57,016 - INFO - Car 3 (Role: follower, Priority: 2) initialized: Start (67, 12), Target (56, 46)
+2024-12-11 23:20:57,017 - INFO - Car 4 (Role: follower, Priority: 2) initialized: Start (54, 88), Target (56, 46)
+2024-12-11 23:20:57,021 - INFO - Car 5 (Role: follower, Priority: 2) initialized: Start (38, 3), Target (56, 46)
+2024-12-11 23:20:57,023 - INFO - Car 6 (Role: normal, Priority: 3) initialized: Start (35, 78), Target (51, 57)
+2024-12-11 23:20:57,026 - INFO - Car 7 (Role: normal, Priority: 3) initialized: Start (1, 64), Target (56, 53)
+2024-12-11 23:20:57,031 - INFO - Car 8 (Role: normal, Priority: 3) initialized: Start (21, 1), Target (46, 48)
+2024-12-11 23:20:57,033 - INFO - Car 9 (Role: normal, Priority: 3) initialized: Start (60, 7), Target (52, 53)
+2024-12-11 23:21:07,164 - INFO - Progress update: 0/10 cars finished, collisions so far: 0
+2024-12-11 23:21:17,175 - INFO - Progress update: 4/10 cars finished, collisions so far: 2
+2024-12-11 23:21:21,366 - INFO - Simulation ended
+2024-12-11 23:21:21,366 - INFO - Total collisions: 2
+2024-12-11 23:21:21,366 - INFO - Cars finished: 5/10
+2024-12-11 23:21:21,366 - INFO - Average finish time: 18.76 s
+2024-12-11 23:21:21,366 - INFO - Path algo switch count: 519
+2024-12-11 23:21:21,366 - INFO - Yield requests: 1, Yields honored: 1
+2024-12-11 23:21:21,366 - INFO - Synergy bonus total: 0
