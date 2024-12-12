@@ -11,3 +11,35 @@
 2024-12-11 22:26:45,521 - INFO - Car 9 initialized: Start (2, 30), Target (25, 25)
 2024-12-11 22:27:09,038 - INFO - All cars reached their targets
 2024-12-11 22:27:09,140 - INFO - Simulation ended
+2024-12-11 22:30:41,934 - INFO - Starting Advanced Multi-Agent Pathfinding Simulation
+2024-12-11 22:30:41,934 - INFO - Car 0 initialized: Start (9, 25), Target (26, 24), Priority 1
+2024-12-11 22:30:41,935 - INFO - Car 1 initialized: Start (29, 7), Target (25, 25), Priority 1
+2024-12-11 22:30:41,936 - INFO - Car 2 initialized: Start (9, 38), Target (25, 27), Priority 1
+2024-12-11 22:30:41,936 - INFO - Car 3 initialized: Start (44, 25), Target (24, 26), Priority 2
+2024-12-11 22:30:41,937 - INFO - Car 4 initialized: Start (26, 7), Target (27, 25), Priority 2
+2024-12-11 22:30:41,939 - INFO - Car 5 initialized: Start (1, 2), Target (24, 27), Priority 2
+2024-12-11 22:30:41,941 - INFO - Car 6 initialized: Start (12, 42), Target (27, 24), Priority 2
+2024-12-11 22:30:41,941 - INFO - Car 7 initialized: Start (26, 11), Target (24, 24), Priority 2
+2024-12-11 22:30:41,941 - INFO - Car 8 initialized: Start (40, 5), Target (27, 23), Priority 2
+2024-12-11 22:30:41,942 - INFO - Car 9 initialized: Start (15, 15), Target (25, 24), Priority 2
+2024-12-11 22:30:56,684 - INFO - All cars reached their targets
+2024-12-11 22:30:56,796 - INFO - Simulation ended
+2024-12-11 22:30:56,802 - INFO - Total collisions: 3
+2024-12-11 22:30:56,802 - INFO - Cars finished: 10/10
+2024-12-11 22:30:56,802 - INFO - Average finish time: 8.11 s
+2024-12-11 22:31:26,274 - INFO - Starting Advanced Multi-Agent Pathfinding Simulation
+2024-12-11 22:31:26,276 - INFO - Car 0 initialized: Start (1, 49), Target (23, 23), Priority 1
+2024-12-11 22:31:26,277 - INFO - Car 1 initialized: Start (5, 40), Target (26, 26), Priority 1
+2024-12-11 22:31:26,277 - INFO - Car 2 initialized: Start (21, 16), Target (23, 27), Priority 1
+2024-12-11 22:31:26,278 - INFO - Car 3 initialized: Start (45, 11), Target (27, 24), Priority 2
+2024-12-11 22:31:26,278 - INFO - Car 4 initialized: Start (40, 7), Target (26, 24), Priority 2
+2024-12-11 22:31:26,279 - INFO - Car 5 initialized: Start (34, 47), Target (23, 26), Priority 2
+2024-12-11 22:31:26,279 - INFO - Car 6 initialized: Start (12, 32), Target (24, 25), Priority 2
+2024-12-11 22:31:26,279 - INFO - Car 7 initialized: Start (30, 23), Target (26, 27), Priority 2
+2024-12-11 22:31:26,280 - INFO - Car 8 initialized: Start (5, 36), Target (27, 26), Priority 2
+2024-12-11 22:31:26,280 - INFO - Car 9 initialized: Start (39, 10), Target (24, 27), Priority 2
+2024-12-11 22:31:41,015 - INFO - All cars reached their targets
+2024-12-11 22:31:41,116 - INFO - Simulation ended
+2024-12-11 22:31:41,117 - INFO - Total collisions: 4
+2024-12-11 22:31:41,117 - INFO - Cars finished: 10/10
+2024-12-11 22:31:41,117 - INFO - Average finish time: 8.83 s
