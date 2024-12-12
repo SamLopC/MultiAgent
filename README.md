@@ -108,7 +108,6 @@ No external ML frameworks are required. Reinforcement learning in this project i
 ├─ grid.py               # Helper functions to draw grid and target zone
 ├─ config.py             # Configuration constants (GRID_SIZE, CELL_SIZE, FPS, etc.)
 ├─ logs.log              # Generated log file with simulation details
-├─ requirements.txt       # Python dependencies
 └─ README.md             # This documentation file
 ```
 
@@ -130,10 +129,6 @@ No external ML frameworks are required. Reinforcement learning in this project i
 2. **Install Dependencies:**
    ```bash
    pip install pygame
-   ```
-   Additional dependencies can be installed from `requirements.txt`:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 3. **Check Python Environment:**
