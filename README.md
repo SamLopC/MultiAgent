@@ -108,7 +108,7 @@ No external ML frameworks are required. Reinforcement learning in this project i
 ├─ grid.py               # Helper functions to draw grid and target zone
 ├─ config.py             # Configuration constants (GRID_SIZE, CELL_SIZE, FPS, etc.)
 ├─ logs.log              # Generated log file with simulation details
-├─ requirements.txt       # Python dependencies (if used)
+├─ requirements.txt       # Python dependencies
 └─ README.md             # This documentation file
 ```
 
@@ -125,14 +125,13 @@ No external ML frameworks are required. Reinforcement learning in this project i
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/SamLopC/MultiAgent
-   cd multi-agent-pathfinding
    ```
 
 2. **Install Dependencies:**
    ```bash
    pip install pygame
    ```
-   Additional dependencies (if any) can be installed from `requirements.txt`:
+   Additional dependencies can be installed from `requirements.txt`:
    ```bash
    pip install -r requirements.txt
    ```
