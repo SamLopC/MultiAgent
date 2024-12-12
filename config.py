@@ -1,6 +1,6 @@
 # Configuration settings for the grid and simulation.
 
-GRID_SIZE = 50  # 50x50 grid
+GRID_SIZE = 100  # 50x50 grid
 CELL_SIZE = 10  # Each cell is 10x10 pixels
 WHITE = (255, 255, 255)
 GRAY = (200, 200, 200)
@@ -8,7 +8,7 @@ TARGET_ZONE_COLOR = (0, 255, 0)
 COLLISION_COLOR = (255, 0, 0)
 FPS = 60
 
-TARGET_ZONE_SIZE = 5  # 5x5 square
+TARGET_ZONE_SIZE = 15  # 5x5 square
 OBSTACLE_COLOR = (0, 0, 0)        # Black for obstacles
 GRID_COLOR = (100, 100, 100)      # Gray for grid lines
 
