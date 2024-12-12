@@ -1,11 +1,7 @@
-Below is a comprehensive, example README you can adapt for your GitHub repository. It includes detailed explanations of the project’s purpose, installation steps, usage instructions, code architecture, features, known issues, future improvements, and contribution guidelines. Feel free to modify sections based on your actual environment, configuration, and project requirements.
-
----
-
 # Multi-Agent Pathfinding & Collision Avoidance in a Constrained Grid
 
 **Author:** Samuel Lopez  
-**Version:** 2.0 (Enhanced and Scalable Version)
+**Version:** 2.0
 
 ## Table of Contents
 
@@ -128,7 +124,7 @@ No external ML frameworks are required. Reinforcement learning in this project i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/multi-agent-pathfinding.git
+   git clone https://github.com/SamLopC/MultiAgent
    cd multi-agent-pathfinding
    ```
 
