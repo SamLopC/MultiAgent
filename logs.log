@@ -1,0 +1,13 @@
+2024-12-11 22:26:45,507 - INFO - Starting Multi-Agent Pathfinding Simulation
+2024-12-11 22:26:45,509 - INFO - Car 0 initialized: Start (47, 10), Target (27, 24)
+2024-12-11 22:26:45,509 - INFO - Car 1 initialized: Start (5, 26), Target (23, 27)
+2024-12-11 22:26:45,513 - INFO - Car 2 initialized: Start (2, 5), Target (26, 24)
+2024-12-11 22:26:45,513 - INFO - Car 3 initialized: Start (40, 25), Target (23, 25)
+2024-12-11 22:26:45,515 - INFO - Car 4 initialized: Start (3, 15), Target (26, 25)
+2024-12-11 22:26:45,516 - INFO - Car 5 initialized: Start (16, 13), Target (23, 24)
+2024-12-11 22:26:45,517 - INFO - Car 6 initialized: Start (37, 31), Target (24, 27)
+2024-12-11 22:26:45,519 - INFO - Car 7 initialized: Start (0, 46), Target (23, 23)
+2024-12-11 22:26:45,520 - INFO - Car 8 initialized: Start (48, 19), Target (27, 27)
+2024-12-11 22:26:45,521 - INFO - Car 9 initialized: Start (2, 30), Target (25, 25)
+2024-12-11 22:27:09,038 - INFO - All cars reached their targets
+2024-12-11 22:27:09,140 - INFO - Simulation ended
